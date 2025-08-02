@@ -1,0 +1,4 @@
+/Users/ramaido/C/sampling/build/CMakeFiles/main.dir
+/Users/ramaido/C/sampling/build/CMakeFiles/run.dir
+/Users/ramaido/C/sampling/build/CMakeFiles/edit_cache.dir
+/Users/ramaido/C/sampling/build/CMakeFiles/rebuild_cache.dir
